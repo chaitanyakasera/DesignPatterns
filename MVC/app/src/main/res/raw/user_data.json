@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "username": "Ss 1",
+    "password": "Aa123456@",
+    "phone_number": "8560984952",
+    "country_code": "91",
+    "email": "chaitanyakasera11@gmail.com"
+  },
+  {
+    "id": 2,
+    "username": "Ss 2",
+    "password": "Aa234567@",
+    "phone_number": "6666666002",
+    "country_code": "1",
+    "email": "ss2@getnada.com"
+  },
+  {
+    "id": 3,
+    "username": "Ss 3",
+    "password": "Aa345678@",
+    "phone_number": "6666666003",
+    "country_code": "1",
+    "email": "ss3@getnada.com"
+  },
+  {
+    "id": 4,
+    "username": "Ss 4",
+    "password": "Aa456789@",
+    "phone_number": "6666666004",
+    "country_code": "91",
+    "email": "ss4@getnada.com"
+  },
+  {
+    "id": 5,
+    "username": "Ss 5",
+    "password": "Aa123456@",
+    "phone_number": "6666666005",
+    "country_code": "91",
+    "email": "ss5@getnada.com"
+  }
+]
